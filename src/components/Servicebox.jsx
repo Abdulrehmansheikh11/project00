@@ -5,7 +5,7 @@ export default function Box(props) {
     
     <div class="p-4 lg:w-1/3">
         <div class="h-full bg-gray-800 bg-opacity-40 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center relative">
-          <h2 class="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">CATEGORY</h2>
+          <h2 class="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">CATEGORYi</h2>
           <h1 class="title-font sm:text-2xl text-xl font-medium text-white mb-3">{props.title}</h1>
           <p class="leading-relaxed mb-3">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
           <a class="text-indigo-400 inline-flex items-center">Learn More
